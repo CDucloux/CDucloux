@@ -4,9 +4,10 @@ My name is *Corentin*, master's student in economics and data science from **Tou
 
 <img src="https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif" width=30% height=30% align="left">
 
+- Mostly Statistics, ML and Econometrics oriented.
 - Find more at [`https://corentinducloux.fr`](https://corentinducloux.fr)
 
-<div><br><br><br><a href="https://www.linkedin.com/in/corentin-ducloux-4b9793213/">
+<div><br><br><a href="https://www.linkedin.com/in/corentin-ducloux-4b9793213/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;</div>
 
