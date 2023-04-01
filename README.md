@@ -2,13 +2,11 @@
 
 My name is *Corentin*, master's student in economics and data science from **Tours**, France.
 
-<img src="https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif" width=25% height=25% align="left">
+<img src="https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif" width=30% height=30% align="left">
 
 - Find more at [`https://corentinducloux.fr`](https://corentinducloux.fr)
-- test
-- test
-- test
-- test
+
+<div><br><br><br><br><br></div>
 
 ***
 
