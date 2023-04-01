@@ -2,7 +2,7 @@
 
 My name is *Corentin*, master's student in economics and data science from **Tours**, France.
 
-![]()
+![](https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif)
 
 - Find more at [`https://corentinducloux.fr`](https://corentinducloux.fr)
 
