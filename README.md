@@ -2,13 +2,17 @@
 
 My name is *Corentin*, master's student in economics and data science from **Tours**, France.
 
-![](https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif)
+<img src="https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif" width=25% height=25% align="left">
 
 - Find more at [`https://corentinducloux.fr`](https://corentinducloux.fr)
+- test
+- test
+- test
+- test
 
 ***
 
-> Languages and tools that I work with.
+> Languages and tools :
 
 | R | Python | Git | Powershell | PostgreSQL | HTML | CSS | Docker | Latex |
 |:-:|:------:|:---:|:----------:|------------|------|-----|--------|----|
