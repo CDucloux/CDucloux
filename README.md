@@ -1,6 +1,6 @@
 # WHO AM I⏪?
 
-My name is Corentin, student in economics and data science.
+My name is Corentin, master's student in economics and data science.
 
 ***
 
