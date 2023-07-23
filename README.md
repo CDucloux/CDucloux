@@ -4,7 +4,7 @@ My name is *Corentin*, master's student in economics and data science from **Tou
 
 <img src="https://github.com/CDucloux/CDucloux/blob/main/img/fox.gif" width=30% height=30% align="left">
 
-- Mostly Statistics, ML and Econometrics oriented.
+- Mostly Statistics, ML and BI oriented.
 - Find more at [`https://corentinducloux.fr`](https://corentinducloux.fr)
 
 <div><br><br><a href="https://www.linkedin.com/in/corentin-ducloux-4b9793213/">
