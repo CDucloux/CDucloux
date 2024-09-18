@@ -23,9 +23,9 @@
 
 > Languages and tools :
 
-| Python | R | Git | PostgreSQL | CSS | Docker | Latex |
+| Python | R | Git | PostgreSQL | CSS | Docker | Quarto |
 |:-:|:------:|:---:|------------|------|-----|--------|
-| <img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48"> | <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48">  |  <p align="center"><img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48"></p> |  <img src="https://img.icons8.com/fluency/480/null/css3.png" width="48" height="48">   |   <img src="https://img.icons8.com/fluency/480/null/docker.png" width="48" height="48">  | 
+| <img src="https://img.icons8.com/color/480/null/python--v1.png" width="48" height="48"> | <img src="https://img.icons8.com/fluency/480/null/r-project.png" width="48" height="48"> | <img src="https://img.icons8.com/color/480/null/git.png" width="48" height="48">  |  <p align="center"><img src="https://img.icons8.com/color/480/null/postgreesql.png" width="48" height="48"></p> |  <img src="https://img.icons8.com/fluency/480/null/css3.png" width="48" height="48">   |   ![](img/quarto-icon.svg)  | 
 
 quarto + typst
 
