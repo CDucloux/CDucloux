@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="font-size:16px;">
-  My name is <strong>CORENTIN</strong> - You may find more at <a href="https://cducloux.quarto.pub/"><code>https://cducloux.quarto.pub</code></a> :<br>
+  My name is <strong>CORENTIN</strong> - You may find more at <a href="https://corentin-ducloux.netlify.app/"><code>corentin-ducloux.netlify.app</code></a> :<br>
   🔬 <em>Data Science</em>   •  💡 <em>Tech</em>  •  🏗 <em>Data & Software Engineering</em> •  📈 <em>Stats</em>
 </p>
 
